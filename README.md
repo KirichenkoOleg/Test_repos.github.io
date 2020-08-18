@@ -8,11 +8,11 @@ My practice project.
 * Gulp 4
 
 ## You can watch this page here
-<https://kirichenkooleg.github.io/BiNO.github.io/>
+<https://kirichenkooleg.github.io/Test_megiaQuires.github.io/>
 
 ## You can run this project locally just do:
 
-* clone the project: **`git clone https://github.com/KirichenkoOleg/Bino.github.io.git`**
+* clone the project: **`git clone https://github.com/KirichenkoOleg/Test_megiaQuires.github.io.git`**
 * upload npm packages: **`npm install`**
 * create build folder and run server: **`gulp server`**
 * or create build folder for production: **`gulp prod`**
