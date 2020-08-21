@@ -1,6 +1,6 @@
 # Design blogs site
 
-My practice project.
+Сhecking page layout options.
 **`/docs`** folder need for work of GitHub-pages
 
 ## In this project I used:
