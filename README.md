@@ -9,7 +9,7 @@ My practice project.
 * Slick slider
 
 ## You can watch this page here
-<https://github.com/KirichenkoOleg/Test_repos.github.io.git/>
+<https://kirichenkooleg.github.io/Test_repos.github.io/>
 
 ## You can run this project locally just do:
 
